@@ -12,13 +12,16 @@ Internet: compartilhamento de recursos (economia de escala) e adoção de padrõ
 MODELO DE SEGURANÇA DE REDE
 
 - O atacante está na rede só olhando os dados que estão trafegando
-Esse modelo até mais “fácil” de fazer a proteção do sistema
-Geralmente se usa um segredo para criptografar as mensagens trafegadas.
+
+- Esse modelo até mais “fácil” de fazer a proteção do sistema
+
+- Geralmente se usa um segredo para criptografar as mensagens trafegadas.
 
 MODELO DE SEGURANÇA DE COMPUTADORES
 
-O atacante quer entrar na sua máquina de alguma forma
-Aqui é mais complexo manter a segurança
+- O atacante quer entrar na sua máquina de alguma forma
+
+- Aqui é mais complexo manter a segurança
 
 
 SEGURANÇA NÃO É UM ESTADO. A SEGURANÇA É UM PROCESSO
